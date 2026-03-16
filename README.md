@@ -6,7 +6,7 @@ This project focuses on building a Customer Relationship Management (CRM) system
 
 # Workflow
 
-- 1. Data Preprocessing
+1. Data Preprocessing
 
 Data cleaning
 
@@ -16,7 +16,7 @@ Data validation
 
 
 
-- 2. Feature Engineering
+2. Feature Engineering
 
 Recency (last purchase time)
 
@@ -26,7 +26,7 @@ Monetary value (total spending)
 
 
 
-- 3. Machine Learning Models
+3. Machine Learning Models
 
 BG/NBD model for purchase prediction
 
@@ -36,13 +36,13 @@ CLV prediction using both models
 
 
 
-- 4. Experiment Tracking
+4. Experiment Tracking
 
 MLflow for logging experiments, models, and metrics
 
 
 
-- 5. CI/CD Pipeline
+5. CI/CD Pipeline
 
 GitHub for version control
 
@@ -50,13 +50,11 @@ Jenkins for automated pipeline
 
 
 
-- 6. Deployment
+6. Deployment
 
 Flask API for serving the model
 
 Cloud deployment for production use
-
-
 
 
 - Technologies Used
